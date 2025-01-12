@@ -1283,6 +1283,7 @@ PRODUCT_PACKAGES += \
     CneApp \
     IWlanService \
     TimeService \
+    PowerOffAlarm \
     HotwordEnrollmentOKGoogle \
     HotwordEnrollmentXGoogle \
     ImsRcsService \
@@ -1297,6 +1298,7 @@ PRODUCT_PACKAGES += \
     dpmapi \
     oplus-ims-ext \
     qcrilhook \
+    vendor.qti.hardware.alarm-V1.0-java \
     vendor.qti.ims.factory-V2.0-java \
     android.hardware.gnss@2.1-service-qti.xml \
     c2_manifest_vendor.xml \
